@@ -166,7 +166,7 @@ Hospital-Emergency-Room-Dashboard
 1. Download or clone this repository.
 
 ```
-git clone https://github.com/yourusername/Hospital-Emergency-Room-Dashboard.git
+git clone https://github.com/ShyamjithC123/Hospital-Emergency-Room-Dashboard.git
 ```
 
 2. Open the `.pbit` or `.pbix` file using Power BI Desktop.
